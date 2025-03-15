@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/event-management/static/css/main.79a0162e.css",
+    "main.js": "/event-management/static/js/main.4a95e183.js",
+    "static/media/event1.jpg": "/event-management/static/media/event1.93c347ef3b635c758fd7.jpg",
+    "static/media/event2.jpg": "/event-management/static/media/event2.2cabe6a655b1a4e3fa1e.jpg",
+    "index.html": "/event-management/index.html",
+    "main.79a0162e.css.map": "/event-management/static/css/main.79a0162e.css.map",
+    "main.4a95e183.js.map": "/event-management/static/js/main.4a95e183.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79a0162e.css",
+    "static/js/main.4a95e183.js"
+  ]
+}
